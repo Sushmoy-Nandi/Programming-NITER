@@ -1,0 +1,2 @@
+Initial Dynamic Array: 0 10 20 
+Dynamic Array after realloc: 0 10 20 30 40 
