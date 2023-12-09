@@ -7,11 +7,12 @@ int main()
     if (number < 0) 
     {
         absoluteValue = -number;
-    } else {
+    } 
+    else
+    {
         absoluteValue = number;
     }
     // Print the absolute value
     printf("Absolute value: %d\n", absoluteValue);
-
     return 0;
 }
