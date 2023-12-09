@@ -13,7 +13,6 @@ int main()
        sum += i; // Add the divisible number to the sum.
      }
    }
-
    printf("\n\nThe sum : %d \n", sum); // Print the total sum of divisible numbers.
     return 0;  // Indicate that the program has executed successfully.
 }
