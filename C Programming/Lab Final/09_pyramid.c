@@ -26,9 +26,13 @@ for (row=1;row<=n;row++)
 {
     //space priting
     for(col=1;col<=n-row;col++)
+    {
         printf(" ");
+    }
     for(col=1;col<=2*row-1;col++)
+    {
         printf("%d",row);
+    } 
     printf("\n");
 }
 return 0;

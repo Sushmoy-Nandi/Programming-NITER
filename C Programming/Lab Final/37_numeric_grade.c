@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main() {
+int main() 
+{
     char grade;
     int numericGrade;
 
@@ -9,7 +9,8 @@ int main() {
     scanf(" %c", &grade); // Note the space before %c to consume any leading whitespace
 
     // Convert letter grade to numeric grade
-    switch (grade) {
+    switch (grade) 
+    {
         case 'A':
         case 'a':
             numericGrade = 90;

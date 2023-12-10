@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-    double num1, num2, num3, largest;
+    double num1, num2, num3;
     // Input three decimal numbers from the user
     scanf("%lf %lf %lf", &num1, &num2, &num3);
     // Assume the first number is the largest initially

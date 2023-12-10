@@ -15,6 +15,5 @@ int main()
     int lcm=(num1*num2)/gcd;
     printf("%d\n",gcd);
     printf("%d",lcm);
-
     return 0;
 }
